@@ -7,12 +7,15 @@ Articles and Image Samples:-
 
 Article 1: Global Energy Transition  
 - Scenes: Flooded coastal villages affected by rising seas, and politicians debating climate policies at COP summits.
+- Scenes: Politicians debating climate policies in a formal setting or at a COP summit.
 
 Article 2: Youth Activism and Protests  
 - Scenes: Crowds of young protesters in cities holding banners, and youth livestreaming protests at night with police presence.
+- Scenes: Youths using smartphones live-streaming a protest at night with police presence in the background.
 
 Article 3: AI Revolution and Image Generation  
 - Scenes: A creative working on AI art on a laptop, and AI tools used in everyday life like marketing and education.
+- Scenes: AI-powered tools embedded into daily life such as marketing, education, gaming, and therapy, shown in a collage.
 
 1. Install the required libraries:  
 ```bash  
